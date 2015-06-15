@@ -109,7 +109,7 @@ True
 	<section id="pythonforyouandme-Operators-Expressions-logical-operators">
 		<title>Logical Operators</title>
 		<para>
-			To do logical AND , OR we use <emphasis>and</emphasis> ,<emphasis> or</emphasis> keywords. <emphasis>x and y</emphasis> returns <emphasis>False</emphasis> if <emphasis>x</emphasis> is <emphasis>False</emphasis> else it returns evaluation of <emphasis>y</emphasis>. If <emphasis>x</emphasis> is <emphasis>True</emphasis>, it returns <emphasis>True</emphasis>.
+			To do logical AND , OR we use <emphasis>and</emphasis> ,<emphasis>or</emphasis> keywords. <emphasis>x and y</emphasis> returns <emphasis>False</emphasis> if <emphasis>x</emphasis> is <emphasis>False</emphasis> else it returns evaluation of <emphasis>y</emphasis>. If <emphasis>x</emphasis> is <emphasis>True</emphasis>, it returns <emphasis>True</emphasis>.
 		</para>
 <programlisting language="Python"> 
 <![CDATA[>>> 1 and 4
